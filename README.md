@@ -19,7 +19,6 @@ A Model Context Protocol (MCP) server that provides comprehensive GitHub Actions
 - [Error Handling](#error-handling)
 - [Troubleshooting](#troubleshooting)
 - [Common Use Cases](#common-use-cases)
-- [Example Workflows](#example-workflows)
 - [Contributing](#contributing)
 - [License](#license)
 
