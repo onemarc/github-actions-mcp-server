@@ -1,8 +1,16 @@
-<p class="center">
+<p align="center">
     <img
         src="assets/gh-mcp-server-banner.png"
         alt="GitHub Actions MCP Server Banner"
     />
+</p>
+
+<p align="center">
+    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fonemarc%2Fgithub-actions-mcp-server">
+        <img
+            src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fonemarc%2Fgithub-actions-mcp-server&label=VISITORS&labelColor=%23333337&countColor=%23dedede"
+        />
+    </a>
 </p>
 
 # GitHub Actions MCP Server
